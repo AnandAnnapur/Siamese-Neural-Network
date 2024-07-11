@@ -1,0 +1,1 @@
+Here you will store your images or the images you want to train the model 
